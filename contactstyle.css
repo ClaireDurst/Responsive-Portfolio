@@ -1,0 +1,133 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0px;
+  margin-top: 0px;
+  padding: 0px;
+  font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 125%;
+  color: #777777;
+  background-image: url("http://4.bp.blogspot.com/-525I11z9-n8/UmRGJ36atKI/AAAAAAAAQVk/ir9lGElvVoA/s1600/Webpage-background-free-seamless-tiling-patterns-2.jpg");
+}
+
+#address  {
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+ #lines {
+ border-bottom: 1px solid #dddddd;
+  width: 250px;
+  margin-left: 0px;
+  margin-top: -20px;
+  height: 20px;
+}
+
+#page-header {  
+    color: white;
+    background-color: #4aaaa5;
+    border-color: #cccccc;
+    text-indent: 10px;
+    width: 200px;
+    margin: 0px;
+    height: 80px;
+    align-content: left;
+    position: relative;
+    margin-top: 0px;
+    position: relative;
+    text-align: center;
+    text-orientation: center;
+    border-bottom-color: black;
+}
+
+#liner {
+  border-bottom: 1px solid #dddddd;
+  width: 190px;
+  margin-left: 30px;
+  margin-top: -20px;
+  height: -20px;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 10, 10, 0, 10;
+    border-bottom: 1px solid #cccccc;
+    display: flex;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+}
+
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px, 12px, 10px, 12px; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 10px; 
+    resize: vertical 
+}
+input[type=submit] {
+    background-color: #4aaaa5;
+    font: bold;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #4aaaa5;
+}
+
+.container {
+    border: 1px solid #cccccc;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 45%;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+
+#picturelink {
+  border: 1px solid #cccccc;
+  background-color: white;
+  color:black;
+  position: relative;
+  position: absolute;
+  height: 150px;
+  width: 250px;
+  right: 100px;
+  margin-top: -496px;
+  text-orientation: center;
+  text-align: center;
+  bottom-padding: 10px;
+
+}
+
+footer {
+  margin-top: 30px;
+  clear:both;
+  padding: 40px;
+  border-top: 1px solid #4aaaa5;
+  text-align: center;
+  font-size: 16px;
+  background: #666666;
+  color: #ffffff;
+  background-color: #666666;
+}
+
+#menu {
+    background-color: white;
+    color: black;
+    margin-top: 10px;
+    margin-right: 1050px;
+    width: 225px;
+    text-align: right;
+    display: inline;
+    list-style-type: none;
+    }

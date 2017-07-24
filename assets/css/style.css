@@ -1,0 +1,144 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0px;
+  margin-top: 0px;
+  padding: 0px;
+  font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 125%;
+  color: #777777;
+  background-image: url("http://4.bp.blogspot.com/-525I11z9-n8/UmRGJ36atKI/AAAAAAAAQVk/ir9lGElvVoA/s1600/Webpage-background-free-seamless-tiling-patterns-2.jpg");
+}
+
+#college {
+	
+}
+
+footer {
+  margin-top: 10px;
+  clear:both;
+  padding: 40px;
+  border-top: 6px solid #4aaaa5;
+  text-align: center;
+  font-size: 16px;
+  background: #666666;
+  color: #ffffff;
+  background-color: #666666;
+}
+
+#menu {
+	background-color: white;
+	color: black;
+	margin-top: 10px;
+	margin-right: 1050px;
+	width: 225px;
+	text-align: right;
+	display: inline;
+	list-style-type: none;
+
+	}
+
+
+
+#page-header { 	
+	color: white;
+	background-color: #4aaaa5;
+	border-color: #cccccc;
+	text-indent: 10px;
+	width: 200px;
+	margin: 0px;
+	height: 80px;
+	align-content: left;
+	position: relative;
+	margin-top: 0px;
+	position: relative;
+	text-align: center;
+	text-orientation: center;
+	border-bottom-color: black;
+}
+
+.aboutMe, .portfolioContainer, .formContainer {
+    border: 1px solid #cccccc;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: -200px;
+    margin-right: 45%;
+    margin-bottom: 20px;
+    padding: 40px;
+    position: fixed;
+    color: black;
+	background-color: white;
+	word-wrap:normal;
+	width: 500px;
+	padding:20px;
+	font-family: cursive;
+	font-size: 15px;
+	border: 1px solid #cccccc;
+	text-align: left;
+	position: relative;
+	left: 275px;
+	margin-top: 20px
+
+}
+
+#picturelink {
+	border: 1px solid #cccccc;
+	background-color: white;
+	color:black;
+	position: absolute;
+	height: 200px;
+	width: 250px;
+	right: 300px;
+	margin-top: -510px;
+	text-orientation: center;
+	text-align: center;
+
+}
+
+
+.boxHeader {
+	font-size: bold;
+	font-color: #white;
+	text-underline-position: below;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 10, 10, 0, 10;
+    border-bottom: 1px solid #cccccc;
+    display: flex;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+
+h1 {
+	text-align: center;
+	text-orientation: center;
+}
+
+#pupper {
+	height: 200px;
+	width: 200px;
+
+}
+
+h4 {h2 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-color: #4aaaa5;
+}
+
+#lining {
+	  border-bottom: 1px solid #dddddd;
+  width: 400px;
+  margin-left: 100px;
+  margin-top: -20px;
+  height: -20px;
+}
+}
+
+#address  {
+	margin-right: 300px;
+	margin-left: 70px;
+}
+

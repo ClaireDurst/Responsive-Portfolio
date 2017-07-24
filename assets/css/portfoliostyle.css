@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0px;
+  margin-top: 0px;
+  padding: 0px;
+  font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 125%;
+  color: #777777;
+  background-image: url("http://4.bp.blogspot.com/-525I11z9-n8/UmRGJ36atKI/AAAAAAAAQVk/ir9lGElvVoA/s1600/Webpage-background-free-seamless-tiling-patterns-2.jpg");
+}
+
+#college {
+	
+}
+
+#foot {
+  margin-top: 1000px;
+  clear:both;
+  padding: 40px;
+  border-top: 6px solid #4aaaa5;
+  text-align: center;
+  font-size: 16px;
+  background: #666666;
+  color: #ffffff;
+  background-color: #666666;
+}
+
+#menu {
+	background-color: white;
+	color: #4aaaa5;
+	margin-top: 10px;
+	margin-right: 1050px;
+	width: 225px;
+	text-align: right;
+	display: inline;
+	list-style-type: none;
+
+	}
+
+#container {
+	width: 600px;
+	height: 600px;
+	padding-top: 20px;
+	background-color: white;
+	position: absolute;
+	margin-top: 45px;
+	border: 1px solid #cccccc;
+	margin-left: 45px;
+}
+
+#liner {
+  border-bottom: 1px solid #dddddd;
+  width: 190px;
+  margin-left: 30px;
+  margin-top: -20px;
+  height: -20px;
+  padding-bottom: 10px;
+}
+
+#picturelink {
+	border: 1px solid #cccccc;
+	background-color: white;
+	color:black;
+	position: absolute;
+	height: 200px;
+	width: 250px;
+	right: 30px;
+	margin-top: 45px;
+	text-orientation: center;
+	text-align: center;
+
+}
+
+.boxHeader {
+	font-size: bold;
+	font-color: white;
+	text-underline-position: below;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 10, 10, 0, 10;
+    border-bottom: 1px solid #cccccc;
+    display: flex;
+    font-family: "Georgia", "Times New Roman", Times, serif;
+}
+
+#page-header { 	
+	color: white;
+	background-color: #4aaaa5;
+	border-color: #cccccc;
+	text-indent: 10px;
+	width: 200px;
+	margin: 0px;
+	height: 80px;
+	align-content: left;
+	position: relative;
+	margin-top: 0px;
+	position: relative;
+	text-align: center;
+	text-orientation: center;
+	border-bottom-color: black;
+}
