@@ -131,3 +131,9 @@ footer {
     display: inline;
     list-style-type: none;
     }
+
+    @media only screen and (max-width: 980px) {
+    body {
+        background-color: lightblue;
+    }
+}
